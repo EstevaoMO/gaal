@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 from time import sleep
 print("Questão 1) Ache as componentes dos vetores u, v, u + v, u - v.")
 sleep(1)
@@ -54,10 +48,6 @@ show("u = ", u)
 show("v = ", v)
 show("u+v = ", u+v)
 show("u-v = ", u-v)
-
-
-# In[ ]:
-
 
 
 
