@@ -44,8 +44,8 @@ sleep(2)
 print("\nIV.")
 print("u - v = ?")
 sleep(1)
-print("u - v = (ux + vx)i - (uy + vy)j")
-print(f"u - v = ({ux+uy})i - ({uy+vy})j")
+print("u - v = (ux - vx)i + (uy - vy)j")
+print(f"u - v = ({ux-uy})i + ({uy-vy})j")
 sleep(2)
 
 # Conclusão
