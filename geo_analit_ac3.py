@@ -1,5 +1,14 @@
 from time import sleep
 
+"""
+Grupo 7
+Estevão Batista de Moraes
+Enzo Lazzarotto
+João Gabriel Miguel
+Gabriel Corrêa
+"""
+
+
 #Questão 7
 print("7) Num hexágono regular abaixo, a medida de cada lado vale 2. Calcular |𝐴 − 𝐵| × |𝐶 − 𝐵|\n")
 sleep(2)
